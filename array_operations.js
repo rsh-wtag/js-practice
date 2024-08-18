@@ -20,5 +20,3 @@ Array.prototype.myIncludes = function (value) {
     }
     return false;
 };
-
-console.log(a.myIncludes(3));
